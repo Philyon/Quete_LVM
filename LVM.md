@@ -26,3 +26,4 @@ Sommaire :
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/eb91fb4d-39a3-4890-9f96-432ee974afd9" alt=""></p>
 ## 6. L'affichage des LV n'affiche plus le snapshot et le LV home n'est plus la source d'aucun snapshot
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/8069f6a9-df3a-48cf-9fb2-d56c4246d7ab" alt=""></p>
+## Quête terminée :tada: :tada: :tada:
