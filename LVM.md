@@ -1,4 +1,4 @@
-# Solutiion de la quête LVM
+# Solution de la quête LVM
 
 Sommaire :
 1. L'ajout d'un PV à debian-vg et au moins le doublement des Total PE
