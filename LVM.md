@@ -13,6 +13,7 @@ Sommaire :
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/4dbdc129-7e01-4ee3-ac18-a40ccfa85304" alt=""></p>
 <br><p align="center"><img width="40%" src="https://github.com/user-attachments/assets/ca5a4aa4-caa9-47f5-839a-b22fd1188c88" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/81ada624-b3df-4565-97c1-70e00a6beba0" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/6c638bdb-a0ee-454b-8edd-8a951b0974a3" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5e8efc1c-4482-4fbf-b3bc-0ff4d0e99142" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3dd4c2d3-35ec-4586-96c3-d2fe43bb2883" alt=""></p>
 ## 2. La création d'un snapshot du LV home
